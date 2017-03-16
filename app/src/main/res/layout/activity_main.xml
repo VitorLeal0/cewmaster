@@ -15,5 +15,5 @@
         android:layout_height="wrap_content"
         tools:ignore="HardcodedText"
         android:id="@+id/txOla"
-        android:text="Cewcoorporation" />
+        android:text="Cewcoorp" />
 </RelativeLayout>
