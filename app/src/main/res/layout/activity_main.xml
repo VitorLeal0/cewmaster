@@ -16,4 +16,15 @@
         tools:ignore="HardcodedText"
         android:id="@+id/txOla"
         android:text="Cewcoorp" />
+
+    <TextView
+        android:text="GitHUB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txOla"
+        android:layout_marginTop="91dp"
+        android:id="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        tools:layout_alignParentLeft="true" />
 </RelativeLayout>
