@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         tools:ignore="HardcodedText"
         android:id="@+id/txOla"
-        android:text="Cewcoorp" />
+        android:text="Cewcoorp testee" />
 
     <TextView
         android:text="GitHUB"
@@ -27,4 +27,14 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         tools:layout_alignParentLeft="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignRight="@+id/txOla"
+        android:layout_alignEnd="@+id/txOla"
+        android:layout_marginTop="54dp"
+        android:id="@+id/button" />
 </RelativeLayout>
